@@ -17,19 +17,6 @@ a {
     margin-top: 20px;
 }
 
-#title-box {
-    height: 75px;
-    background-color: #4aaaaf;
-    font-family: 'Georgia', Times, 'Times New Roman', serif;
-    color: white;
-}
-
-#nav-box {
-    height: 75px;
-    background-color: white;
-    text-align: center;
-}
-
 footer {
     padding: 30px 0;
     clear: both;
@@ -98,4 +85,17 @@ footer {
 
 .message-box {
     height: 200px;
+}
+
+#title-box {
+    height: 75px;
+    background-color: #4aaaaf;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    color: white;
+}
+
+#nav-box {
+    height: 75px;
+    background-color: white;
+    text-align: center;
 }
