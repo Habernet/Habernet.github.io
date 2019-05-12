@@ -87,6 +87,11 @@ footer {
     height: 200px;
 }
 
+.linkedIn {
+    font-weight: bolder;
+    color: #4aaaaf;
+    text-align: center;
+}
 #title-box {
     height: 75px;
     background-color: #4aaaaf;
